@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Krisp Text Utilities</Name>
+    <Assembly>2016\KRSP.Revit.TextUtilities.Format2016.dll</Assembly>
+    <FullClassName>KRSP.Revit.TextUtilities.Format2016.App</FullClassName>
+    <AddInId>004b913f-4aa5-4bab-aa0b-45f7a8dcf0e8</AddInId>
+    <VendorId>KRSP</VendorId>
+    <VendorDescription>KrispCAD: Kristian Parsons - krisp.design@gmail.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command KRSP.Revit.TextChangeCase.Format2015</Text>
+    <Description>Some description for KRSP.Revit.TextChangeCase.Format2015</Description>
+    <Assembly>C:\Users\krparsons\Documents\Visual Studio 2012\Projects\KRSP Revit\KRSP Revit TextUtilities\KRSP.Revit.TextChangeCase.Format2015\bin\debug\KRSP.Revit.TextChangeCase.Format2015.dll</Assembly>
+    <FullClassName>KRSP.Revit.TextChangeCase.Format2015.Command</FullClassName>
+    <ClientId>8ebfaada-4d81-4ce2-95a1-e45d86317017</ClientId>
+	<VisibilityMode>AlwaysVisible</VisibilityMode>
+    <VendorId>WFDC</VendorId>
+    <VendorDescription>Westfield Design - kparsons@au.westfield.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

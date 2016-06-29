@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<KRSP_Annotation_Styles>
+  <LeaderStyles>
+    <!-- Angle = Decimal Degrees, Size = Millimeters -->
+    <!-- For TRUE/FALSE or ON/OFF parameters: 0 = FALSE/OFF, 1 = TRUE/ON -->
+    <!-- ArrowStyles
+      Arrow:  8
+      Box:  10
+      Datum Triangle: 9
+      Diagonal: 0
+      Dot:  3
+      Elevation Target: 11
+      Heavy end tick mark:  7
+      Loop: 12
+    -->
+    <LeaderStyle Name="ARROW (30°) FILLED"
+                 ArrowStyle="8"
+                 Angle="30"
+                 Filled="1"
+                 Size="3"
+                 HeavyEndWeight="5" />
+  </LeaderStyles>
+
+  <TextStyles>
+    <Sizes Units="mm">
+      <!-- Enter either "mm" or "in" for units -->
+      <!-- All sizes must be in decimal format -->
+      <Size Value="1.8" />
+      <Size Value="2.5" />
+      <Size Value="5.0" />
+    </Sizes>
+
+    <Styles>
+      <!-- For TRUE/FALSE or ON/OFF parameters: 0 = FALSE/OFF, 1 = TRUE/ON -->
+      <!-- Color value is (red, green, blue) -->
+      
+      <Style Name=""
+          Description="Bold"
+          FontName="Arial"
+          Background="1"
+          Bold="1"
+          Italic="0"
+          Underline="0"
+          Colour="0"
+          Leader="ARROW (30°) FILLED"
+          LeaderOffset="1.0"
+          LineWeight="1"
+          TextBox="0"
+          TabSize="12.0"
+          WidthFactor="1"
+        />
+    </Styles>
+  </TextStyles>
+</KRSP_Annotation_Styles>

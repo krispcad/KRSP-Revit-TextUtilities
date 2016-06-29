@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command KRSP.Revit.TextChangeCase.Format2016</Text>
+    <Description>Some description for KRSP.Revit.TextChangeCase.Format2016</Description>
+    <Assembly>C:\Users\krparsons\Documents\Visual Studio 2012\Projects\KRSP Revit\KRSP Revit TextUtilities\KRSP.Revit.TextChangeCase.Format2016\bin\debug\KRSP.Revit.TextChangeCase.Format2016.dll</Assembly>
+    <FullClassName>KRSP.Revit.TextChangeCase.Format2016.Command</FullClassName>
+    <ClientId>1e61c49a-9847-4dbd-8db9-e4930c73563a</ClientId>
+	<VisibilityMode>AlwaysVisible</VisibilityMode>
+    <VendorId>KRSP</VendorId>
+    <VendorDescription>KrispCAD: Kristian Parsons - krisp.design@gmail.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>C:\Users\krparsons\Documents\Visual Studio 2010\Projects\KRSP Revit\KRSP.Revit.TextUtilities\WFDC.Revit.Addin.Format_20141\bin\debug\WFDC.Revit.Addin.Format_20141.dll</Assembly>
+    <ClientId>7fb430bd-6a83-41be-836a-c0aca646479b</ClientId>
+    <FullClassName>WFDC.Revit.Addin.Format_20141.Command</FullClassName>
+    <Text>Command WFDC.Revit.Addin.Format_20141</Text>
+    <Description>Some description for WFDC.Revit.Addin.Format_20141</Description>
+	<VisibilityMode>AlwaysVisible</VisibilityMode>
+    <VendorId>WFDC</VendorId>
+    <VendorDescription>Westfield Design &amp; Construction</VendorDescription>
+  </AddIn>
+</RevitAddIns>

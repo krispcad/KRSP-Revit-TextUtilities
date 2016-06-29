@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command KRSP.Revit.TextAlign.Format2015</Text>
+    <Description>Some description for KRSP.Revit.TextAlign.Format2015</Description>
+    <Assembly>C:\Users\krparsons\Documents\Visual Studio 2013\Projects\KRSP Revit\KRSP Revit TextUtilities\KRSP.Revit.TextAlign.Format2015\bin\Debug\KRSP.Revit.TextAlign.Format2015.dll</Assembly>
+    <FullClassName>KRSP.Revit.TextAlign.Format2015.Command</FullClassName>
+    <ClientId>ec11eedd-8d00-4dc4-a331-0434186f2f18</ClientId>
+	<VisibilityMode>AlwaysVisible</VisibilityMode>
+    <VendorId>WFDC</VendorId>
+    <VendorDescription>Westfield Design - kparsons@au.westfield.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

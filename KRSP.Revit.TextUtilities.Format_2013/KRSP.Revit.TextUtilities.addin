@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Krisp Text Utilities</Name>
+    <Assembly>C:\Users\krparsons\Documents\Visual Studio 2012\Projects\KRSP Revit\KRSP Revit TextUtilities\KRSP.Revit.TextUtilities.Format_2013\bin\Debug\KRSP.Revit.TextUtilities.dll</Assembly>
+    <FullClassName>KRSP.Revit.TextUtilities.App</FullClassName>
+    <AddInId>8ca05cf1-3da3-43e5-a790-88d7601c1445</AddInId>
+    <VendorId>KRSP</VendorId>
+    <VendorDescription>KrispCAD: Kristian Parsons - krisp.design@gmail.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
