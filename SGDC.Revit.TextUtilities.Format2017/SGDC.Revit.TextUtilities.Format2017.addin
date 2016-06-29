@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command SGDC.Revit.TextUtilities.Format2017</Text>
+    <Description>Some description for SGDC.Revit.TextUtilities.Format2017</Description>
+    <Assembly>C:\Users\krparsons\Documents\Visual Studio 2013\Projects\KRSP Revit\KRSP Revit TextUtilities\SGDC.Revit.TextUtilities.Format2017\bin\debug\SGDC.Revit.TextUtilities.Format2017.dll</Assembly>
+    <FullClassName>SGDC.Revit.TextUtilities.Format2017.Command</FullClassName>
+    <ClientId>88757470-7a64-4cce-a4e3-036c9be05055</ClientId>
+	<VisibilityMode>AlwaysVisible</VisibilityMode>
+    <VendorId>SGDC</VendorId>
+    <VendorDescription>Scentre Group Design - kparsons@scentregroup.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

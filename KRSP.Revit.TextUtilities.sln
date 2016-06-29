@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Express 2012 for Windows Desktop
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KRSP.Revit.TextUtilities.Format_2013", "KRSP.Revit.TextUtilities.Format_2013\KRSP.Revit.TextUtilities.Format_2013.csproj", "{E4B76FA5-BEDD-4070-8F0E-BCF21FFDFE69}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KRSP.Revit.TextAlign.Format_2013", "KRSP.Revit.TextAlign.Format_2013\KRSP.Revit.TextAlign.Format_2013.csproj", "{2F4760DA-3236-46B3-8CF1-DDA7F003D5BF}"
@@ -24,6 +26,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KRSP.Revit.TextChangeCase.Format2016", "KRSP.Revit.TextChangeCase.Format2016\KRSP.Revit.TextChangeCase.Format2016.csproj", "{DEDBC079-8927-444C-9752-7A632BC84F86}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KRSP.Revit.TextUtilities.Format2016", "KRSP.Revit.TextUtilities.Format2016\KRSP.Revit.TextUtilities.Format2016.csproj", "{7FC246E5-B805-4E0A-9F09-6BAF70D59C58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGDC.Revit.TextUtilities.Format2017", "SGDC.Revit.TextUtilities.Format2017\SGDC.Revit.TextUtilities.Format2017.csproj", "{2BF9BDF1-8E64-4F38-B7D8-13D3A364186D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +157,18 @@ Global
 		{7FC246E5-B805-4E0A-9F09-6BAF70D59C58}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{7FC246E5-B805-4E0A-9F09-6BAF70D59C58}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{7FC246E5-B805-4E0A-9F09-6BAF70D59C58}.Release|x86.ActiveCfg = Release|Any CPU
+		{2BF9BDF1-8E64-4F38-B7D8-13D3A364186D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BF9BDF1-8E64-4F38-B7D8-13D3A364186D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BF9BDF1-8E64-4F38-B7D8-13D3A364186D}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{2BF9BDF1-8E64-4F38-B7D8-13D3A364186D}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{2BF9BDF1-8E64-4F38-B7D8-13D3A364186D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2BF9BDF1-8E64-4F38-B7D8-13D3A364186D}.Debug|x86.Build.0 = Debug|Any CPU
+		{2BF9BDF1-8E64-4F38-B7D8-13D3A364186D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BF9BDF1-8E64-4F38-B7D8-13D3A364186D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BF9BDF1-8E64-4F38-B7D8-13D3A364186D}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{2BF9BDF1-8E64-4F38-B7D8-13D3A364186D}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{2BF9BDF1-8E64-4F38-B7D8-13D3A364186D}.Release|x86.ActiveCfg = Release|Any CPU
+		{2BF9BDF1-8E64-4F38-B7D8-13D3A364186D}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
